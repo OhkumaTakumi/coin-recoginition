@@ -1,0 +1,3 @@
+https://drive.google.com/open?id=1RNd7kMhi5KHNtc9Z5JrqLUKCOAGf8JSx
+
+このファイルを重みとしてダウンロードし、その重みを"yolov3_final.weights"として保存
